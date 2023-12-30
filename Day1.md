@@ -10,8 +10,8 @@ Today is Saturday 30th (2023)
 
 ## An example of this is:
 
-num_x = int(input("Put x number here: "))
-num_y = int(input("Put y number here: "))
+num_x = int(input("Put x number here: "))\n
+num_y = int(input("Put y number here: "))\n
 print(num_x + num_y)
 
 # We use "int" in input because we want to use integer number for this. The opposite of "str"
