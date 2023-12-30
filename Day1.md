@@ -6,9 +6,9 @@ The deal is that I'll be learning Python and English in the same way and I'll tr
 Today is Saturday 30th (2023)
 -------------------------------------------------------------------------------------------------
 
-# Today's topic is... Input and using "int" in there.
+# Input and using "int" in there.
 
-# An example of this is:
+## An example of this is:
 
 num_x = int(input("Put x number here: "))
 num_y = int(input("Put y number here: "))
