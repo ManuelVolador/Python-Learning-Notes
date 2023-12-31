@@ -50,7 +50,7 @@ Put the second number: 1
 Put the third number: 762
 The largest number between 52517, 1 and 762, is 52517, and the smallest is: 1
 ```
-## Now I just made an Fahrenheit => Celsius converter
+## Now I just made a Fahrenheit => Celsius converter
 
 ```
 fahrenheit = int(input("Put fahrenheit here: "))
