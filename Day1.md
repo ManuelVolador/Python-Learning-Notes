@@ -70,9 +70,7 @@ Put fahrenheit here: 10
 **Now I'm using "float" because is needed to make the operation possible. (integers can't be used to money conversion if you want exact values)**
 ```
 pesos = float(input("Put your pesos quantity here: "))
-
 conversion = float(input("Put the standard conversion to dollars"))
-
 dollars = (pesos*conversion)
 
 print("your pesos quantity is {}, and will be converted using the conversion of {}, that equals to {} dollars".format(pesos, conversion, dollars))
