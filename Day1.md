@@ -22,7 +22,7 @@ print(num_x + num_y)
 "TypeError: unsupported operand type(s) for +: 'int' and 'str'."
 ```
 
-## In another test I'm using "max" and "min" tho the the maximum number of the user's inputs:
+## In another test I'm using "max" and "min" to know the the maximum or minimum number of the user's inputs:
 ```
 num_1 = int(input("Put the first number: "))
 num_2 = int(input("Put the second number: "))
@@ -85,6 +85,7 @@ your pesos quantity is 50000.0, and will be converted using
 the conversion of 3800.0, that equals to 13.157894736842104 dollars
 
 ```
+
 
 
 
