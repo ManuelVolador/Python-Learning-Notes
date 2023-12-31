@@ -17,7 +17,7 @@ num_y = int(input("Put y number here: "))
 print(num_x + num_y)
 ```
 
-### I just learned that putting up "int" in input is necessary to the execution of the code,if it uses integers.The opposite of "str" inputs and this is something like a "rule"? because if we don't use "int" we'll got:
+**I just learned that putting up "int" in input is necessary to the execution of the code,if it uses integers.The opposite of "str" inputs and this is something like a "rule"? because if we don't use "int" we'll got:**
 ```
 "TypeError: unsupported operand type(s) for +: 'int' and 'str'."
 ```
