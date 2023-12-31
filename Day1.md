@@ -1,14 +1,16 @@
 -------------------------------------------------------------------------------------------------
+*Today is Saturday 30th (2023)**
+
 Btw I'm not an english speaker, but every thing in this "proyect" will be in English language.
 The deal is that I'll be learning Python and English in the same way and I'll try to do my best. 
 (I'm using an online course by Nate Gentile so far).
 
-Today is Saturday 30th (2023)
+
 -------------------------------------------------------------------------------------------------
 
 # Input and using "int" in there.
 
-## An example of this is:
+**An example of this is:**
 ```
 num_x = int(input("Put x number here: "))
 num_y = int(input("Put y number here: "))
