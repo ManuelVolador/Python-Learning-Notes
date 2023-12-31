@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------------------------
-*Today is Saturday 30th (2023)**
+**Today is Saturday 30th (2023)**
 
 Btw I'm not an english speaker, but every thing in this "proyect" will be in English language.
 The deal is that I'll be learning Python and English in the same way and I'll try to do my best. 
